@@ -7,23 +7,23 @@
   },
   {
     "image": "sample",
-    "name": "Denim Jacket",
+    "name": "Trousers",
+    "price": "2395",
+    "discount": "1300",
+    "liked": false
+  },
+  {
+    "image": "sample",
+    "name": "Shirt",
     "price": "2395",
     "discount": "0",
     "liked": false
   },
   {
     "image": "sample",
-    "name": "Denim Jacket",
+    "name": "casual",
     "price": "2395",
-    "discount": "0",
-    "liked": false
-  },
-  {
-    "image": "sample",
-    "name": "Denim Jacket",
-    "price": "2395",
-    "discount": "0",
+    "discount": "1200",
     "liked": false
   },
 {
