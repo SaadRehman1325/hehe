@@ -1,5 +1,5 @@
 [{
-    "image": "sample",
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
     "name": "Denim Jacket",
     "price": "2395",
     "discount": "0",
@@ -13,21 +13,21 @@
     "liked": false
   },
   {
-    "image": "sample",
+    "image": "https://images.unsplash.com/photo-1593936680439-5be01719b1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
     "name": "Shirt",
     "price": "2395",
     "discount": "0",
     "liked": false
   },
   {
-    "image": "sample",
+    "image": "https://images.unsplash.com/photo-1619603364904-c0498317e145?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
     "name": "casual",
     "price": "2395",
     "discount": "1200",
     "liked": false
   },
 {
-    "image": "sample",
+    "image": "https://images.unsplash.com/photo-1591213954196-2d0ccb3f8d4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
     "name": "Denim Jacket",
     "price": "2395",
     "discount": "0",
