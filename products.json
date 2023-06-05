@@ -6,7 +6,7 @@
     "liked": false
   },
   {
-    "image": "sample",
+    "image": "https://images.unsplash.com/photo-1609324120004-364275e0ad05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
     "name": "Trousers",
     "price": "2395",
     "discount": "1300",
